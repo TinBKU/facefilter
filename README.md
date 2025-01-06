@@ -9,11 +9,11 @@
 
 ### 1. Tải source về máy
 ```bash
-git clone <repository-url>
+git clone <https://github.com/TinBKU/facefilter.git>
 cd facefilter
 ```
 
-### 2. Cài đặt Python 21.0.3
+### 2. Cài đặt Python 10.0.0
 
 #### Chạy các lệnh sau trong CMD:
 ```bash
