@@ -15,12 +15,17 @@ cd facefilter
 
 ### 2. Cài đặt Python 10.0.0
 
+### 3. Chạy chương trình
 #### Chạy các lệnh sau trong CMD:
 ```bash
 py -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 py main.py
+```
+### 4. Thoát chương trình
+```bash
+Nhấn nút q
 ```
 
 ---
